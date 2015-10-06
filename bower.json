@@ -1,0 +1,22 @@
+{
+  "name": "gitserver",
+  "version": "0.0.0",
+  "authors": [
+    "Leon Kellerhals <l.kellerhals@googlemail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
